@@ -30,3 +30,25 @@ https://drive.google.com/file/d/16kGWEsyVSYrDyPRpCsUPmaFX9TcOD_k7/view?usp=shari
 ## <img src="https://user-images.githubusercontent.com/84607354/158005224-17233b23-5e95-4cd2-b103-15d5f5b9b738.png" width="40" > Dataset
 •	Dataset is provided by the iNeuron.<br/>
 •	https://archive.ics.uci.edu/ml/datasets/energy+efficiency
+
+## ⚙️ Setup
+1. Install:-
+
+   pip install pandas <br/>
+   pip install numpy<br/>
+   pip install matplotlib.pyplot<br/>
+   pip install seaborn<br/>
+other libaries which are all required for this project 
+  
+## <img src="https://user-images.githubusercontent.com/84607354/131457739-ffcd1c9e-159d-42dd-8237-a0bb1882fc2d.png" width="40"> Deployment
+•	The Web framework is made using flask in python<br/>
+•	Web framework is deployed in Heroku <br/>
+•	https://energy--efficiency.herokuapp.com/<br/>
+
+## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40"> Contributors 
+•   Sathappan PR<br/>
+•   Susan Elizabeth Varghese
+
+## <img src="https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?cs=srgb&dl=pexels-pixabay-357514.jpg&fm=jpg" width="40"> Documents 
+
+• https://drive.google.com/drive/folders/1BSe_OBhRblZwcAXOFyrBJF2glorB8V0W?usp=sharing
