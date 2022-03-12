@@ -2,3 +2,15 @@
 
 ### Demo video Link
 https://drive.google.com/file/d/16kGWEsyVSYrDyPRpCsUPmaFX9TcOD_k7/view?usp=sharing
+
+### HOME PAGE<br/>
+    •  Where the user will enter their details such as
+ 
+      1. Relative Components,
+      2. Surface area,
+      3. Wall area,
+      4. Roof area, 
+      5. Overall Height,
+      6. Orientation, 
+      7. Glazing Area, 
+      8. Glazing Area Distribution
