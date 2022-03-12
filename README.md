@@ -21,3 +21,8 @@ https://drive.google.com/file/d/16kGWEsyVSYrDyPRpCsUPmaFX9TcOD_k7/view?usp=shari
 •	Predicted output will be displayed, Heating load and cooling load 
 
 ![image](https://user-images.githubusercontent.com/84607354/158005063-cfb7155d-e1fc-4c0f-85bb-c5036c81c3b5.png)
+
+## <img src="https://user-images.githubusercontent.com/84607354/131428371-1bc0df88-6f2a-4a5d-b017-5813116110b9.png" width="40"> Description
+•	This implementation is based on Adult Census Income Prediction.<br/>
+•	In this project we have used DecisionTree algorithm to make a model.<br/>
+•	Flask is used to make web application.
