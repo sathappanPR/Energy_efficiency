@@ -27,6 +27,6 @@ https://drive.google.com/file/d/16kGWEsyVSYrDyPRpCsUPmaFX9TcOD_k7/view?usp=shari
 •	In this project we have used DecisionTreeRegressor algorithm to make a model.<br/>
 •	Flask is used to make web application.
 
-## <img src="https://user-images.githubusercontent.com/84607354/131429691-71f3d5fc-dea0-4b12-98b6-f4b13ed2de3f.png" width="40" > Dataset
+## <img src="https://user-images.githubusercontent.com/84607354/158005224-17233b23-5e95-4cd2-b103-15d5f5b9b738.png" width="40" > Dataset
 •	Dataset is provided by the iNeuron.<br/>
 •	https://archive.ics.uci.edu/ml/datasets/energy+efficiency
