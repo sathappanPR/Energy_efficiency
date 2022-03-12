@@ -1,0 +1,1 @@
+#<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fknowledge%2Feconomics%2Findustry%2F&psig=AOvVaw0ud_lxuJHqyyefAwPFqufk&ust=1647148076909000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCSjPPmv_YCFQAAAAAdAAAAABAD" width="40"> Energy Efficiency 
