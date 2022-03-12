@@ -20,4 +20,4 @@ https://drive.google.com/file/d/16kGWEsyVSYrDyPRpCsUPmaFX9TcOD_k7/view?usp=shari
 ### RESULT PAGE<br/>
 •	Predicted output will be displayed, Heating load and cooling load 
 
-![image](https://user-images.githubusercontent.com/84607354/131341779-cfefa8db-b2c3-4b30-ba23-2995da12d2bc.png)
+![image](https://user-images.githubusercontent.com/84607354/158005063-cfb7155d-e1fc-4c0f-85bb-c5036c81c3b5.png)
